@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">projecto</string>
+    <string name="comprar">Comprar</string>
+    <string name="seleccione_un_acompa_amiento">Seleccione un acompañamiento</string>
+    <string name="precio">Precio</string>
+    <string name="textview">TextView</string>
+    <string name="ingredientes">Ingredientes</string>
+    <string name="bbq">BBQ</string>
+    <string name="mostaza">Mostaza</string>
+    <string name="sweet_chilli">Sweet chilli</string>
+    <string name="tomate">Tomate</string>
+    <string name="todo">TODO</string>
+    <string name="volver">volver</string>
+    <string name="coca_cola">Coca-Cola</string>
+    <string name="coca_cola_zero">Coca-Cola Zero</string>
+    <string name="coca_cola_light">Coca-Cola Light</string>
+</resources>
